@@ -1,6 +1,8 @@
 ### Coe tadyk 👨‍💻
 
+<!--
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aloushek&count_private=true&show_icons=true&theme=dracula&hide=stars,issues)](https://github.com/anuraghazra/github-readme-stats)
+-->
 
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aloushek&langs_count=8&count_private=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
