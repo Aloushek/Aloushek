@@ -1,6 +1,6 @@
 ### Coe tadyk 👨‍💻
 
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/aloushek/langs)](https://githubtrends.io)
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/Aloushek/langs?time_range=one_year&include_private=True&loc_metric=changed&theme=dark)](https://githubtrends.io)
 
 <!--
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aloushek&count_private=true&show_icons=true&theme=dracula&hide=stars,issues)](https://github.com/anuraghazra/github-readme-stats)
